@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696028994 source:d:\ahmed\embbeded systems\code_c\number_guessing_game\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
